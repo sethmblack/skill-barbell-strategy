@@ -4,7 +4,7 @@ description: 'Structure any risk or resource allocation as bimodal: extreme safe
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3442
+  version: 1.0.3443
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - barbell-strategy
